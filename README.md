@@ -1,2 +1,0 @@
-# datasciencecoursera
-DataScience Related projects
